@@ -1,0 +1,23 @@
+{
+  "name": "baidu-calendar-ics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "baidu",
+    "calendar",
+    "ics"
+  ],
+  "author": "likaci",
+  "license": "ISC",
+  "dependencies": {
+    "left": "^1.0.2",
+    "left-pad": "^1.1.3",
+    "rx": "latest",
+    "rx-http-request": "^1.2.0",
+    "request": "latest"
+  }
+}
